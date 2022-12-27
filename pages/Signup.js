@@ -10,6 +10,7 @@ function SignUp() {
             <div className="max-w-[25rem] bg-[#ffefd3] h-[100vh] p-10 text-[#0d1821]">
                 <h1 className="text-7xl font-['Kenia'] m-10 mt-36">Important Note</h1>
                 <p className="ml-6">This is a demo app to show my skills and there won't be a mobile/desktop app.</p>
+                <Link href="./dashboard">Dashboard</Link>
             </div>
         </>
      );
